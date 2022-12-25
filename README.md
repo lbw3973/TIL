@@ -18,4 +18,5 @@
 
 - [CSS Basic](https://github.com/lbw3973/TIL/blob/main/CSS/CSS%20basic.md)
 - [CSS Selector](https://github.com/lbw3973/TIL/blob/main/CSS/CSS%20Selector.md)
-
+- [CSS style 상속 & 선택자 우선순위](https://github.com/lbw3973/TIL/blob/main/CSS/CSS%20style%20%EC%83%81%EC%86%8D%20%26%20%EC%84%A0%ED%83%9D%EC%9E%90%20%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84.md)
+- [CSS Flex](https://github.com/lbw3973/TIL/blob/main/CSS/CSS%20Flex.md)
