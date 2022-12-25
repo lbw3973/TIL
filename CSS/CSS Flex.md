@@ -10,18 +10,18 @@
 
 #### 1. display
 - display 속성으로 Flex Container를 정의한다
-  1. `flex` : Block형식의 Flex Container를 정의
-  2. `inline-flex` : inline형식의 Flex Container를 정의
+&nbsp;&nbsp;1. `flex` : Block형식의 Flex Container를 정의
+&nbsp;&nbsp;2. `inline-flex` : inline형식의 Flex Container를 정의
 
 #### 2. flex-flow
 - Flex Items의 main 축을 설정하고 줄바꿈도 설정한다.
 - 단축 속성이다.
-  1. flex-direction : items의 주 축을 설정 (default value : row)
+&nbsp;&nbsp;1. flex-direction : items의 주 축을 설정 (default value : row)
     - **`row`** : items를 좌->우, 수평으로 표시 
     - `row-reverse` : row를 역방향으로 표시
     - `col` : items를 상->하, 수직으로 표시
     - `col-reverse` : col을 역방향으로 표시
-  2. flex-wrap: items의 줄바꿈을 설정 (default value : nowrap)
+&nbsp;&nbsp;2. flex-wrap: items의 줄바꿈을 설정 (default value : nowrap)
     - `nowrap` : items를 줄바꿈 하지 않음, 한 줄에 표시
     - `wrap` : items를 여러줄로 표시
     - `wrap-reverse` : `wrap`의 역방향으로 표시
