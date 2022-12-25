@@ -17,5 +17,5 @@
 ### CSS
 
 - [CSS Basic](https://github.com/lbw3973/TIL/blob/main/CSS/CSS%20basic.md)
-- [HTML Selector](https://github.com/lbw3973/TIL/blob/main/CSS/CSS%20Selector.md)
+- [CSS Selector](https://github.com/lbw3973/TIL/blob/main/CSS/CSS%20Selector.md)
 
