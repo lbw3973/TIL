@@ -69,9 +69,9 @@ body {
 ```
 
 - 우선순위
-  1. !important
-  2. inline 선언
-  3. id 선택자
-  4. class 선택자
-  5. tag 선택자
-  6. 전체선택자
+1. !important
+2. inline 선언
+3. id 선택자
+4. class 선택자
+5. tag 선택자
+6. 전체선택자
