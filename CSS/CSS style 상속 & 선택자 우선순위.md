@@ -8,7 +8,7 @@
 - **모든** **글자/문자 관련 속성들**은 아니다
 - 예시
   1. `font-style` : 글자 스타일
-  2. `font-weight` : 굴자 두께
+  2. `font-weight` : 글자 두께
   3. `font-size` : 글자 크기
   4. `line-height` : 줄 높이
   5. `font-family` : 폰트(서체)
