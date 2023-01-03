@@ -49,6 +49,7 @@ console.log(foo); // 1
 // 변수 선언은 런타임 이전에 JS 엔진에 의해 암묵적으로 실행된다
 var foo;
 ```
+---
 
 ### ✔ let 키워드
 - var 키워드의 단점을 보완하기 위해 ES6에서 새로운 변수 선언 키워드인 let과 const가 도입되었다
@@ -76,6 +77,7 @@ console.log(bar); // ReferenceError: bar is not defined
 console.log(foo); // ReferenceError
 let foo;
 ```
+---
 
 ### ✔ const 키워드
 - 보통 상수를 선언하기 위해 사용된다
@@ -116,3 +118,4 @@ person.name = 'Jo';
 
 console.log(person); // {name : 'Jo'}
 ```
+---
